@@ -1,0 +1,159 @@
+:root {
+    --mainColor: red;
+  }
+@font-face{
+    font-family: Pixellari;
+    src: url('../fonts/Pixellari.ttf');
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+/*---------------------------------------------------TEXTOS------------------------------------------------*/
+.fundo1{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/fundogif.gif');
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+    text-align:center;
+}
+.fundo2{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/fundogif4.gif');
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.fundo3{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/fundogif5.gif');
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.fundo4{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/fundogif7.gif');
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+/*---------------------------------------------------TEXTOS------------------------------------------------*/
+.hora{
+    font-family: 'Pixellari';
+    text-shadow: 2px 2px 5px black;
+    opacity: 1;
+    position: relative;
+    color: white;
+    font-size: 10em;
+}
+.titulo-r{
+    padding: 50px 20px 10px 25px;
+    font-family: 'Pixellari';
+    text-align: right;
+    color: white;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px black;  
+}
+.titulo-l{
+    padding: 50px 50px 10px 25px;
+    font-family: 'Pixellari';
+    text-align: left;
+    color: white;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px black;  
+}
+.txt-l{
+    padding: 20px 80px 55px 25px;
+    font-family: 'Pixellari';
+    text-align: left;
+    float: left;
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px black;  
+}
+.txt-r{
+    padding: 20px 20px 55px 80px;
+    font-family: 'Pixellari';
+    text-align: right;
+    float: right;
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px black;  
+
+}
+.div-botoes{
+    padding-left: 20px;
+    text-align: left;
+}
+.botao{
+    width: 15%;
+    font-family: 'Pixellari';
+    background: none;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 8px;
+    text-shadow: 2px 2px 5px black;
+    box-shadow: 2px 2px 5px black;  
+}
+.lista-links{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Pixellari';
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px black; 
+    position: relative;
+    width:fit-content;
+    height:fit-content;
+    text-align: left;
+}
+a {
+    background:
+       linear-gradient(
+         to bottom, var(--mainColor) 0%,
+         var(--mainColor) 100%
+       );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+    color: white;
+    text-decoration: none;
+    transition: background-size .2s;
+  }
+  
+  a:hover {
+    color: white;
+    background-size: 4px 50px;
+  }
+/*    width:fit-content;
+    height:fit-content;
+    float: right;*/
