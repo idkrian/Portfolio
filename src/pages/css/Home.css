@@ -9,7 +9,8 @@
     margin: 0;
     padding: 0;
 }
-/*---------------------------------------------------TEXTOS------------------------------------------------*/
+
+/*---------------------------------------------------IMAGENS------------------------------------------------*/
 .fundo1{
     width: 100%;
     height: 600px;
@@ -67,14 +68,22 @@
     opacity: 1;
     position: relative;
     color: white;
-    font-size: 10em;
+    font-size: 9.0vmax;
+}
+.port{
+    padding: 50px 20px 10px 25px;
+    font-family: 'Pixellari';
+    text-align: left;
+    color: white;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px black;  
 }
 .titulo-r{
     padding: 50px 20px 10px 25px;
     font-family: 'Pixellari';
     text-align: right;
     color: white;
-    font-size: 60px;
+    font-size: 5.5vw;
     text-shadow: 2px 2px 5px black;  
 }
 .titulo-l{
@@ -82,7 +91,7 @@
     font-family: 'Pixellari';
     text-align: left;
     color: white;
-    font-size: 60px;
+    font-size: 5.5vw;
     text-shadow: 2px 2px 5px black;  
 }
 .txt-l{
@@ -91,7 +100,7 @@
     text-align: left;
     float: left;
     color: white;
-    font-size: 30px;
+    font-size: 2.4vmax;
     text-shadow: 2px 2px 5px black;  
 }
 .txt-r{
@@ -100,7 +109,7 @@
     text-align: right;
     float: right;
     color: white;
-    font-size: 30px;
+    font-size: 2.8vmax;
     text-shadow: 2px 2px 5px black;  
 
 }
@@ -119,7 +128,7 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 25px;
+    font-size: 1.8vw;
     margin: 4px 8px;
     text-shadow: 2px 2px 5px black;
     box-shadow: 2px 2px 5px black;  
@@ -154,6 +163,3 @@ a {
     color: white;
     background-size: 4px 50px;
   }
-/*    width:fit-content;
-    height:fit-content;
-    float: right;*/
