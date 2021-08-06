@@ -83,7 +83,7 @@
     font-family: 'Pixellari';
     text-align: right;
     color: white;
-    font-size: 5.5vw;
+    font-size: 5.2vw;
     text-shadow: 2px 2px 5px black;  
 }
 .titulo-l{
@@ -91,7 +91,7 @@
     font-family: 'Pixellari';
     text-align: left;
     color: white;
-    font-size: 5.5vw;
+    font-size: 5vw;
     text-shadow: 2px 2px 5px black;  
 }
 .txt-l{
@@ -104,12 +104,12 @@
     text-shadow: 2px 2px 5px black;  
 }
 .txt-r{
-    padding: 20px 20px 55px 80px;
+    padding: 20px 20px 55px 300px;
     font-family: 'Pixellari';
     text-align: right;
     float: right;
     color: white;
-    font-size: 2.8vmax;
+    font-size: 2.4vmax;
     text-shadow: 2px 2px 5px black;  
 
 }

@@ -41,11 +41,12 @@ function Home() {
                     Sobre Mim
                 </div>
                 <div className='txt-r'>
-                    Oi! Meu nome é Rian, sou um desenvolvedor 
+                    Opa! Prazer, meu nome é Rian, sou um desenvolvedor 
                     muito entusiasta da programação
-                    com muito amor pelo Front-End e também o 
-                    Back-end.<br/>
-                    Atualmente cursando o 3° semestre do 
+                    com muito amor pelo Front-End.
+                    <br/>
+                    <br />
+                    Atualmente estou cursando o 4° semestre do 
                     curso de Análise e Desenvolvimento de Sistemas 
                     e em busca de oportunidades para alavancar a minha carreira.
 
