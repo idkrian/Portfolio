@@ -78,7 +78,8 @@ function Home() {
                     <button className="botao">MYSQL</button>
                     <button className="botao">GIT</button>
                     <br/>
-                    <button className="botao">INGLÊS</button>
+                    <button className="botao">INGLÊS AVANÇADO</button>
+                    <button className="botao">METODOLOGIAS ÁGEIS</button>
                 </div>
                 
             </div>
