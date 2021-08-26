@@ -58,15 +58,20 @@ function Home() {
                     Conhecimentos
                 </div>
                 <div className='txt-l'>
-                    Estou sempre atento ao mercado e lendo 
-                    sobre as áreas envolvidas com meu dia a dia, 
+                    {/* Estou sempre atento ao mercado e lendo 
+                    sobre novas te envolvidas com meu dia a dia, 
                     incorporando novas tecnologias e métodos conforme 
-                    as necessidades minhas e dos projetos.
+                    as necessidades minhas e dos projetos. */}
+                    Estou sempre atento e procuro sempre
+                    me antenar e estudar as mais novas e 
+                    usadas tecnologias do mercado.
+                    <br/>  
+                    Atualmente tenho conhecimentos em:
                 </div>
                 <div className='div-botoes col-sm'>
-                    <button className="botao">JAVASCRIPT</button>
                     <button className="botao">HTML</button>
                     <button className="botao">CSS</button>
+                    <button className="botao">JAVASCRIPT</button>
                     <button className="botao">REACTJS</button>
                     <button className="botao">NEXTJS</button>
                     <button className="botao">NODEJS</button>
