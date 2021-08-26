@@ -64,16 +64,15 @@ function Home() {
                     as necessidades minhas e dos projetos.
                 </div>
                 <div className='div-botoes col-sm'>
+                    <button className="botao">JAVASCRIPT</button>
                     <button className="botao">HTML</button>
                     <button className="botao">CSS</button>
-                    <button className="botao">JAVASCRIPT</button>
-                    <button className="botao">BOOTSTRAP</button>
                     <button className="botao">REACTJS</button>
+                    <button className="botao">NEXTJS</button>
                     <button className="botao">NODEJS</button>
                     <br/>                   
                     <button className="botao">PHP</button>
                     <button className="botao">PYTHON</button>
-                    
                     <button className="botao">LARAVEL</button>
                     <button className="botao">MYSQL</button>
                     <button className="botao">GIT</button>
