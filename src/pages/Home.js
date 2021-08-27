@@ -28,7 +28,8 @@ function Home() {
                 <ul className='lista-links col-md'>
                     <p><a href="https://github.com/idkrian" target="_blank" rel='noreferrer'>Meu GitHub</a><br/></p>
                     <a href="https://riandev-calculadora-imc.netlify.app/#/" target="_blank" rel='noreferrer'>Calculadora IMC</a><br/>
-                    <a className='aestilo' href='https://riandev-create-read.netlify.app/#/' target="_blank" rel='noreferrer'>CREATE-READ APP</a><br/>
+                    <a className='aestilo' href='https://riandev-create-read.netlify.app/#/' target="_blank" rel='noreferrer'>Creater-Read APP</a><br/>
+                    <a className='aestilo' href='https://github.com/idkrian/adminApp' target="_blank" rel='noreferrer'>Admin APP</a><br/>
                     <a href='https://github.com/idkrian/crud-cadastro-medicos' target="_blank" rel='noreferrer'>Cadastro de Médicos</a><br/>
                     <a href='https://github.com/idkrian/spotify-clone' target="_blank" rel='noreferrer'>Spotify Clone</a><br/>
                 </ul>
@@ -58,10 +59,6 @@ function Home() {
                     Conhecimentos
                 </div>
                 <div className='txt-l'>
-                    {/* Estou sempre atento ao mercado e lendo 
-                    sobre novas te envolvidas com meu dia a dia, 
-                    incorporando novas tecnologias e métodos conforme 
-                    as necessidades minhas e dos projetos. */}
                     Estou sempre atento e procuro sempre
                     me antenar e estudar as mais novas e 
                     usadas tecnologias do mercado.
