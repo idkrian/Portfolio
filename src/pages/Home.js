@@ -28,7 +28,7 @@ function Home() {
                 <ul className='lista-links col-md'>
                     <p><a href="https://github.com/idkrian" target="_blank" rel='noreferrer'>Meu GitHub</a><br/></p>
                     <a href="https://riandev-calculadora-imc.netlify.app/#/" target="_blank" rel='noreferrer'>Calculadora IMC</a><br/>
-                    <a className='aestilo' href='https://riandev-create-read.netlify.app/#/' target="_blank" rel='noreferrer'>Creater-Read APP</a><br/>
+                    <a className='aestilo' href='https://riandev-create-read.netlify.app/#/' target="_blank" rel='noreferrer'>Create-Read APP</a><br/>
                     <a className='aestilo' href='https://github.com/idkrian/adminApp' target="_blank" rel='noreferrer'>Admin APP</a><br/>
                     <a href='https://github.com/idkrian/crud-cadastro-medicos' target="_blank" rel='noreferrer'>Cadastro de Médicos</a><br/>
                     <a href='https://github.com/idkrian/spotify-clone' target="_blank" rel='noreferrer'>Spotify Clone</a><br/>
